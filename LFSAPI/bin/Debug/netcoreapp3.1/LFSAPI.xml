@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LFSAPI</name>
+    </assembly>
+    <members>
+        <member name="M:LFSAPI.Controllers.AccountController.Login(LFSAPI.Models.LoginViewModel)">
+            <summary>
+            Account Login
+            </summary>
+            <param name="model"></param>
+        </member>
+        <member name="M:LFSAPI.Controllers.AccountController.Register(LFSAPI.Models.RegisterViewModel)">
+            <summary>
+            Account Register
+            </summary>
+            <param name="model"></param>
+        </member>
+    </members>
+</doc>
